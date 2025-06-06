@@ -3,7 +3,7 @@ Airbnb is an online marketplace that connects people who want to rent out their 
 
 ## Project Link
 
-[AirBnB Impact of Regulations]()
+[AirBnB Impact of Regulations](https://github.com/Alima39/AirBnB_Impact_of_Regulation/blob/main/AirBnB_Impact_of_Regulation%20.ipynb)
 
 <img src="https://github.com/Alima39/AirBnB_Impact_of_Regulation/blob/main/Airbnb_image.jpg" width=1000>
 
